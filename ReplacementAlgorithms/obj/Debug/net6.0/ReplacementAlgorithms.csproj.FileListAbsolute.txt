@@ -1,0 +1,15 @@
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\bin\Debug\net6.0\ReplacementAlgorithms.exe
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\bin\Debug\net6.0\ReplacementAlgorithms.deps.json
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\bin\Debug\net6.0\ReplacementAlgorithms.runtimeconfig.json
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\bin\Debug\net6.0\ReplacementAlgorithms.dll
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\bin\Debug\net6.0\ref\ReplacementAlgorithms.dll
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\bin\Debug\net6.0\ReplacementAlgorithms.pdb
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.csproj.AssemblyReference.cache
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.AssemblyInfoInputs.cache
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.AssemblyInfo.cs
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.dll
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ref\ReplacementAlgorithms.dll
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.pdb
+C:\Users\alang\Desktop\Учеба\Операционные системы\ReplacementAlgorithms\ReplacementAlgorithms\obj\Debug\net6.0\ReplacementAlgorithms.genruntimeconfig.cache
